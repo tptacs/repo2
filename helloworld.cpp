@@ -7,6 +7,6 @@ int main()
 	a = 2;
 	
 	cout << "a + b es igual a " << a+b;
-    cout << " Hello, World!";
+    cout << "\nHello, World!";
     return 0;
 }
